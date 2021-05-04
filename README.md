@@ -3,8 +3,10 @@ A tools :)
 
 ###How to use pxlocoetsy?
 
+Install nodejs first: https://nodejs.org/en/
+
 Run following commands:
-Install nodejs
+
 
 ```
 npm install
