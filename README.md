@@ -13,6 +13,7 @@ Run following commands:
 npm install
 composer install
 php artisan migrate
+php artisan key:generate
 php server
 ```
 
