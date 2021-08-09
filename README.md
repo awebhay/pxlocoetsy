@@ -15,7 +15,7 @@ npm install
 composer install
 php artisan migrate
 php artisan key:generate
-php artisan server
+php artisan serve
 ```
 
 All done!!!
